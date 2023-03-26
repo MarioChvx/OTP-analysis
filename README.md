@@ -6,6 +6,14 @@ This is a personal project with multiple steps:
 2. **Second** the historical data will be analyzed and interpreted. Searching insights.
 3. **Third** the data and insights will be used to model and train an IA that predicts witch team will win just with the information you can get by the time loading screen is showed.
 
+## Pending
+
+- Use cloud functions to make api requests
+- Use fire store to save raw data
+- Transform data and save it into big query
+- Make an analysis
+- Deploy the results
+
 ## Consulting Riot's API
 
 ### RiotWathcer
